@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.github.dreamvoid</groupId>
-    <artifactId>DreamvoidBukkitTemplate</artifactId>
+    <artifactId>LoginTeleport</artifactId>
     <version>1.0</version>
 
     <name>${project.artifactId}</name>
-    <description>DreamVoid personal Bukkit template</description>
+    <description>登录就传送</description>
     <url>https://github.com/DreamVoid/${project.artifactId}</url>
 
     <build>
